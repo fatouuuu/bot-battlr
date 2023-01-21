@@ -1,10 +1,7 @@
 # Bot Battlr
 
 Welcome to **Bot Battlr**, the one and only spot in the known universe where you
-can custom build your own Bot Army! This is our app:
-
-##App Demo
-![App Demo]: (./public/app-demo.gif)
+can custom build your own Bot Army! 
 
 Here's the scenario: a galactic overlord has hired you, a galactic web
 developer, to develop a galactic web app that will allow them to browse through
