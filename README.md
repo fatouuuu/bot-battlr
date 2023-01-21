@@ -107,3 +107,4 @@ As a user, I should be able to:
 ## App Demo
 
 ![app-demo](https://github.com/fatouuuu/bot-battlr/blob/main/public/app-demo.gif)
+![full-app-demo](https://github.com/fatouuuu/bot-battlr/blob/main/public/full_demo.gif)
