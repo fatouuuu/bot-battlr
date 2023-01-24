@@ -1,10 +1,10 @@
-import React from 'react';
+import BotsContainer from './BotsContainer';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      
+      <BotsContainer />
     </div>
   );
 }
